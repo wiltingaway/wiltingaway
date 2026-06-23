@@ -17,7 +17,7 @@ i really always enjoy designing, i have some websites done but it's nothing quit
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bun,next,redis,postgres,react,typescript,git" />
+    <img src="https://skillicons.dev/icons?i=python,bun,next,redis,postgres,react,cloudflare,vercel,nodejs,linux,css,html,typescript,git" />
   </a>
 </p>
 
@@ -28,4 +28,8 @@ i really always enjoy designing, i have some websites done but it's nothing quit
 
 <p align="middle">
   <img src="https://count.getloli.com/@wiltingaway?name=wiltingaway&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
+
+<p align="middle">
+  <img src="https://raw.githubusercontent.com/wiltingaway/wiltingaway/main/the-group.gif" />
 </p>
